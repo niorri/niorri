@@ -4,7 +4,7 @@
 ###
 - Spoken languages: English, Korean.
 - Typed languages: PowerShell, VBA, C++, HTML & CSS.
-- Currently learning Game Dev in GameMaker, Godot and Unreal Engine.
+- Currently exploring game dev in GameMaker, Godot and Unreal Engine.
 
 ![Visitor Count](https://profile-counter.glitch.me/Niorri/count.svg)
 
