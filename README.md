@@ -1,4 +1,10 @@
 ## Kia Ora 👋
+![githubHelloWorldBanner](https://github.com/user-attachments/assets/07e1703c-50ec-4e50-bc3d-d11161aaaccd)
+
+###
+- Spoken languages: English, Korean.
+- Typed languages: PowerShell, VBA, C++, HTML & CSS.
+- Currently learning Game Dev in GameMaker, Godot and Unreal Engine.
 
 ![Visitor Count](https://profile-counter.glitch.me/Niorri/count.svg)
 
